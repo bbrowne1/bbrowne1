@@ -1,40 +1,50 @@
+<!-- GitHub Profile README with a Gradient Background -->
+<p align="center">
+  <svg width="100%" height="200">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#ffcc00; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ff6699; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="200" fill="url(#grad1)" />
+    <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" 
+          font-size="30" fill="white" font-family="Arial">
+      Welcome to My GitHub!
+    </text>
+  </svg>
+</p>
+
 Hi there, I'm Bayo Browne 👋
 
-🚀 About Me
+## 🚀 About Me
+🔹 **Data Analyst** transitioning into **Python Development** & **Quantitative Analysis** in NYC.  
+🔹 Experienced in **Python, Data Visualization, and Financial Consulting** across fintech, healthcare, and enterprise applications.
 
-I'm a Data Analyst with experience in Python, data visualization, financial consulting, and quantitative analysis. I have worked in various industries, including fintech, healthcare, and enterprise applications. Currently, I'm transitioning into Python development and quantitative analysis in NYC.
+---
 
-🔧 Skills & Technologies
+## 🔧 Skills & Technologies
+🖥️ **Programming:** Python, SQL, R  
+📊 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
+📈 **Machine Learning & Quantitative Analysis:** Scikit-learn, TensorFlow, Statsmodels  
+🗄️ **Databases:** PostgreSQL, MySQL, MongoDB  
+🛠️ **Development Tools:** Git, Docker, Jupyter Notebook, VS Code  
 
-Programming Languages: Python, SQL, R
+---
 
-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI
+## 💼 Work Experience
+📌 **Data Visualization Analyst** – *American Express GBT* *(2021 - 2024)*  
+📌 **Senior Data Analyst** – *Federal Inland Revenue Service* *(2018 - 2021)*  
+📌 **IT Manager** – *Montaigne Place* *(2017)*  
+📌 **Data Analyst** – *Nextzon* *(2012 - 2017)*  
+📌 **Principal Consultant** – *Nextzon* *(2011 - 2012)*  
+📌 **Enterprise Application Support** – *Merck & Co, Inc.* *(2009 - 2011)*  
 
-Machine Learning & Quantitative Analysis: Scikit-learn, TensorFlow, Statsmodels
+---
 
-Databases: PostgreSQL, MySQL, MongoDB
-
-Development Tools: Git, Docker, Jupyter Notebook, VS Code
-
-💼 Work Experience
-
-Data Visualization Analyst at American Express GBT (2021 - 2024)
-
-Snr Data Analyst at Federal Inland Revenue Service (2018 - 2021)
-
-IT Manager at Montaigne Place (2017)
-
-Data Analyst at Nextzon (2012 - 2017)
-
-Principal Consultant at Nextzon (2011 - 2012)
-
-Enterprise Application Support at Merck & Co, Inc. (2009 - 2011)
-
-🎓 Education
-
-BSc. Computer Science – New Jersey Institute of Technology
-
-MBA (Online Program) – IE Business School (In Progress)
+## 🎓 Education
+🎓 **BSc. Computer Science** – *New Jersey Institute of Technology*  
+🎓 **MBA (Online Program)** – *IE Business School (In Progress)*  
 
 📫 Let's Connect
 
