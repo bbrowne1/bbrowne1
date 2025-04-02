@@ -32,16 +32,6 @@ Hi there, I'm Bayo Browne 👋
 
 ---
 
-## 💼 Work Experience
-📌 **Data Visualization Analyst** – *American Express GBT* *(2021 - 2024)*  
-📌 **Senior Data Analyst** – *Federal Inland Revenue Service* *(2018 - 2021)*  
-📌 **IT Manager** – *Montaigne Place* *(2017)*  
-📌 **Data Analyst** – *Nextzon* *(2012 - 2017)*  
-📌 **Principal Consultant** – *Nextzon* *(2011 - 2012)*  
-📌 **Enterprise Application Support** – *Merck & Co, Inc.* *(2009 - 2011)*  
-
----
-
 ## 🎓 Education
 🎓 **BSc. Computer Science** – *New Jersey Institute of Technology*  
 🎓 **MBA (Online Program)** – *IE Business School (In Progress)*  
